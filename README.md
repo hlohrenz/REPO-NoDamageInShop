@@ -1,6 +1,6 @@
 # No Damage In Shop
 
-![No Damage In Shop Preview](https://github.com/hlohrenz/REPO-EnemyDrops/raw/main/preview.gif)
+![No Damage In Shop Preview](preview.gif)
 
 ## Overview
 This mod prevents players from taking damage while they are in the shop level.
